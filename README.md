@@ -12,5 +12,5 @@ This project is a simple command-line note management system using Python and SQ
 - `edit`: Modify an existing note by title or ID.
 - `delete`: Remove a note by title or ID.
 - `list`: List all notes with options to sort by ID, creation time, or update time.
--  quit: Exit the application.
--  back: You can type back at any prompt to return to the main menu.
+- `quit`: Exit the application.
+- `back`: You can type back at any prompt to return to the main menu.
