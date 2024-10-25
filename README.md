@@ -1,4 +1,4 @@
-# Notes APP
+# Note APP
 
 This project is a simple command-line note management system using Python and SQLite. It supports adding, editing, deleting, and listing notes, stored in an SQLite database.
 
